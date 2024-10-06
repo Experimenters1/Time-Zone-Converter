@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/Time-Zone-Converter-master.dia",
+    "emit-module-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/Time-Zone-Converter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/Time-Zone-Converter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/Time-Zone-Converter-master.swiftdeps"
+  },
+  "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/Time-Zone-Converter/AppDelegate.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/Time-Zone-Converter/Controller/TimeConverterViewController.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.dia",
+    "index-unit-output-path" : "/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.bc",
+    "object" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterViewController~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/Time-Zone-Converter/Model/TimeModel.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.dia",
+    "index-unit-output-path" : "/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.bc",
+    "object" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeModel~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/Time-Zone-Converter/SceneDelegate.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/Time-Zone-Converter/View/TimeConverterView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.dia",
+    "index-unit-output-path" : "/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.bc",
+    "object" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/TimeConverterView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Time-Zone-Converter/Time-Zone-Converter/build/Time-Zone-Converter.build/Debug-iphonesimulator/Time-Zone-Converter.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
